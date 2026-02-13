@@ -8,7 +8,7 @@ My primary interests are in operating systems, TCP/IP networking, all things inf
 As of January 2026, I am currently focused on:
 - 🛣️ Completing my Cyber Security Year in Industry at National Highways
 - 📚 Obtaining Microsoft SC-900 Security, Compliance, and Identity Fundamentals
-- ⚛️ Developing [Volq](https://github.com/gwmichael/volq-quantum), a programming language for simulating quantum computing algorithms
+- ⚛️ Developing [Volq](https://github.com/michaelchips/volq-quantum), a programming language for simulating quantum computing algorithms
 
 Connect with me or get in touch below:
 <div id="links">
@@ -17,7 +17,7 @@ Connect with me or get in touch below:
 	</a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NetMasterMichael&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michaelchips&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 📝 Programming & Scripting Languages and Frameworks
 <div id="languages">
