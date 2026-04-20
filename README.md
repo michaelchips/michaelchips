@@ -3,7 +3,7 @@ My name is Michael! I'm from the UK and I'm currently completing my Year in Indu
 
 After my Year in Industry, I will be returning to full-time education at Royal Holloway, University of London, to finish my last year of my Integrated Master's Degree in Computer Science. I also have worked for several years in the IT Support sector and I am [certified as an Infrastructure Technician](https://www.credly.com/badges/ee3efb18-8d7f-4e5a-a1df-95d8fcf33f64/public_url).
 
-My primary interests are in operating systems, TCP/IP networking, all things information security (cryptography, cyber security, etc) and more recently, quantum computing! I only joined GitHub in 2024, but I have been programming since 2016.
+My primary interests are in operating systems, TCP/IP networking, all things information security (cryptography, cyber security, etc) and more recently, quantum computing! I only joined GitHub in 2023, but I have been programming since 2016.
 
 As of January 2026, I am currently focused on:
 - 🛣️ Completing my Cyber Security Year in Industry at National Highways
