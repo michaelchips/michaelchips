@@ -5,10 +5,11 @@ After my Year in Industry, I will be returning to full-time education at Royal H
 
 My primary interests are in operating systems, TCP/IP networking, all things information security (cryptography, cyber security, etc) and more recently, quantum computing! I only joined GitHub in 2023, but I have been programming since 2016.
 
-As of January 2026, I am currently focused on:
-- 🛣️ Completing my Cyber Security Year in Industry at National Highways
-- 📚 Obtaining Microsoft SC-900 Security, Compliance, and Identity Fundamentals
-- ⚛️ Developing [Volq](https://github.com/michaelchips/volq-quantum), a programming language for simulating quantum computing algorithms
+As of September 2026, I am currently focused on:
+- 📚 Completing my final-year term 1 modules, including
+  - Security Management
+  - User-Centered Design
+- 👾 Running exciting events for Royal Holloway's Cyber Security Society
 
 Connect with me or get in touch below:
 <div id="links">
